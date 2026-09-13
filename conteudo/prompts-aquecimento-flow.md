@@ -2,223 +2,275 @@
 > Sem produto. Objetivo: salvar, compartilhar e comentar.
 > Cole cada [CENA] como prompt separado no Storyboard Mode.
 
+## Regra de continuidade
+Em cada cena, repita sempre: mesma pessoa + mesma roupa + mesmo ambiente + mesma luz.
+Isso ancora o Flow para manter coerência visual entre os clipes gerados.
+
 ---
 
-## VÍDEO 01 — Satisfação de organização
-**Reação alvo:** save massivo
+## VÍDEO 01 — Organização de banheiro
+**Âncoras fixas:** mulher 30–35 anos, cabelo preso, camiseta branca de algodão | banheiro branco com azulejo simples, luz natural da janela à esquerda
+**Reação alvo:** save
 **Duração:** 20 seg | **Formato:** 9:16
 
 ```
 [CENA 1 — 3 seg]
-Messy bathroom cabinet seen from slightly above.
-Bottles and products scattered with no order.
-Real home, soft natural light. Not staged.
+Woman in her 30s, dark hair in a bun, white cotton t-shirt,
+standing in a small white-tiled bathroom with natural light from left window.
+She looks at a cluttered cabinet with scattered products. Slightly overwhelmed expression.
+Handheld camera, realistic home feel.
 
 [CENA 2 — 3 seg]
-Hands removing all items from cabinet, placing on counter.
-Quick motion. Warm bathroom lighting.
+Same woman, same white t-shirt, same white-tiled bathroom, same natural light from left.
+Her hands remove all bottles from the cabinet and place them on the counter.
+Overhead angle of counter. Quick deliberate motion.
 
 [CENA 3 — 4 seg]
-Empty cabinet being wiped clean with a white cloth.
-Satisfying slow motion. Clean white interior revealed.
+Same woman, same white t-shirt, same white-tiled bathroom, same natural light.
+She wipes the inside of the empty cabinet with a white cloth.
+Slow motion, satisfying reveal of clean white shelf interior.
+Close-up angle.
 
 [CENA 4 — 4 seg]
-Hands placing items back in perfect order, grouped by category.
-Skincare together, perfumes together. Deliberate, satisfying motion.
-Overhead angle.
+Same woman, same white t-shirt, same white-tiled bathroom, same natural light from left.
+Her hands place products back in organized groups — skincare left, hair right.
+Overhead angle, deliberate satisfying motion, one item at a time.
 
 [CENA 5 — 4 seg]
-Final result: perfectly organized cabinet, door open.
-Everything visible, clean, symmetrical. Warm light.
-Still shot, 2 seconds, then slow door close.
+Same white-tiled bathroom, same natural light from left window.
+Cabinet now fully organized, door open showing neat arrangement.
+Camera slowly pulls back. Woman steps back and nods with satisfaction.
+Same white t-shirt, hair in bun.
 ```
 
-**Overlay:** `"Organizei em 20 minutos 🧼"` → última cena: `"Salva pra lembrar ✨"`
-**Áudio:** buscar "satisfying cleaning calm"
-**Legenda:** `Não aguento mais de frescura com essa organização do banheiro. Alguém mais assim? 😅`
+**Overlay:** Cena 1: `"Antes 😬"` | Cena 5: `"20 minutos depois ✨ Salva aqui"`
+**Áudio:** buscar "satisfying calm piano"
+**Legenda:** `Essa bagunça me estressava todo dia. Resolvi em 20 minutos. Alguém mais procrastina essa organização por meses? 😅`
 
 ---
 
-## VÍDEO 02 — Rotina de manhã (aesthetic)
+## VÍDEO 02 — Rotina de manhã (10 minutos só pra mim)
+**Âncoras fixas:** mulher 35–40 anos, cabelo solto, roupão bege | banheiro claro com espelho grande, luz natural quente da manhã
 **Reação alvo:** comentário + compartilhamento
 **Duração:** 25 seg | **Formato:** 9:16
 
 ```
 [CENA 1 — 3 seg]
-Morning window with soft sunlight coming through sheer curtains.
-Warm golden hour light. Coffee cup on windowsill. Peaceful.
+Woman in her late 30s, loose dark hair, beige robe,
+standing at a large bathroom mirror with warm morning sunlight from right.
+She exhales slowly and looks at herself in the mirror. Peaceful expression.
+Soft focus background. Handheld, intimate feel.
 
 [CENA 2 — 3 seg]
-Hands wrapping around a warm mug of coffee.
-Close-up. Cozy home environment. Natural light.
+Same woman, same beige robe, same bathroom mirror, same warm morning light from right.
+Her hands splash water on her face at the sink.
+Slow motion. Water droplets visible.
 
 [CENA 3 — 4 seg]
-Woman 30s sitting at vanity, applying moisturizer slowly.
-Soft morning light. Relaxed expression. No rush.
+Same woman, same beige robe, same bathroom with warm morning light from right.
+She gently applies moisturizer to her face, slow circular motions.
+Close-up of face and hands. Real skin, no filter effect.
 
-[CENA 4 — 3 seg]
-Close-up of face being gently patted with product.
-Real skin texture. Natural, not filtered.
+[CENA 4 — 4 seg]
+Same woman, same beige robe, same large bathroom mirror, same warm morning light.
+She closes her eyes briefly, hands resting on bathroom counter.
+Peaceful. Still moment. The kind of pause before the day starts.
 
 [CENA 5 — 4 seg]
-Sunlight through window falling on a clean organized desk.
-Plant, notebook, coffee. Calm productive morning vibe.
+Same woman, same beige robe, same bathroom, same warm morning light from right.
+She looks at herself in the mirror and smiles slightly — not posed, natural.
+Camera holds on her face for 2 seconds.
 
-[CENA 6 — 4 seg]
-Woman looks out window, relaxed smile. Morning light on face.
-Slow motion. Peaceful. End scene.
+[CENA 6 — 3 seg]
+Wide shot: same bathroom, same warm morning light.
+Woman seen from behind at the mirror, robe, loose hair.
+Calm, quiet morning atmosphere. Static shot.
 ```
 
-**Overlay:** `"5 minutos só pra mim antes do dia começar"` → última: `"Você tem esse ritual? 👇"`
-**Áudio:** buscar "morning lo-fi cozy"
-**Legenda:** `Descobri que 5 minutos de rotina de manhã antes de todo mundo acordar mudou meu humor o dia todo. Você tem algum ritual assim?`
+**Overlay:** Cena 1: `"10 minutos antes do dia começar"` | Cena 5: `"Você tem esse ritual? 👇"`
+**Áudio:** buscar "morning acoustic gentle piano"
+**Legenda:** `Aprendi a proteger esses 10 minutos da manhã. Sem celular, sem pressa. Mudou meu humor o dia todo. Você tem algum ritual assim?`
 
 ---
 
-## VÍDEO 03 — Hack caseiro (truque simples)
+## VÍDEO 03 — Hack do canudinho (joias sem embaraçar)
+**Âncoras fixas:** mãos femininas com esmalte nude | bancada de madeira clara, luz difusa do teto
 **Reação alvo:** save + "nunca pensei nisso"
 **Duração:** 18 seg | **Formato:** 9:16
 
 ```
-[CENA 1 — 2 seg]
-Woman looking frustrated at tangled necklaces on a surface.
-Relatable problem. Real home. Natural light.
-
-[CENA 2 — 2 seg]
-Hand picks up a simple drinking straw and a necklace.
-Close-up. Simple household items.
-
-[CENA 3 — 4 seg]
-Necklace chain threaded through the straw to prevent tangling.
-Hands demonstrating slowly. Clear, instructional angle.
-
-[CENA 4 — 3 seg]
-Multiple necklaces each in their own straw, stored in a small box.
-Neat, organized result. Overhead shot.
-
-[CENA 5 — 4 seg]
-Woman looks at camera with satisfied expression, holds up necklaces.
-Thumbs up gesture. Warm home lighting. Direct eye contact.
-```
-
-**Overlay:** `"Cena 1: canudinho do McDonald's"` → cena 4: `"Nunca mais embaraçou 😮"`
-**Áudio:** buscar "light playful acoustic"
-**Legenda:** `Aprendi isso da minha avó e uso até hoje. Canudinho resolve o que nenhuma caixinha de joias resolve 😂 Salva aqui`
-
----
-
-## VÍDEO 04 — Momento relatable (50+)
-**Reação alvo:** compartilhamento ("isso sou eu")
-**Duração:** 20 seg | **Formato:** 9:16
-
-```
 [CENA 1 — 3 seg]
-Woman 55+ sits down with a cup of tea in a quiet sunny kitchen.
-Morning light, peaceful. She exhales slowly. Alone time vibe.
+Female hands with nude nail polish on a light wooden surface, warm ceiling light.
+Several tangled necklaces on the surface. Frustration implied by the mess.
+Close-up overhead angle.
 
 [CENA 2 — 3 seg]
-Her hand slowly stirs the tea. Meditative. No rush.
-Close-up of steam rising from mug. Warm tones.
+Same hands with nude nail polish, same light wooden surface, same ceiling light.
+One hand picks up a regular plastic drinking straw.
+Other hand holds a thin necklace chain. Close-up.
 
-[CENA 3 — 4 seg]
-She opens a book or a magazine, relaxed reading pose.
-Soft natural light from window. Unhurried morning.
+[CENA 3 — 5 seg]
+Same hands with nude nail polish, same light wooden surface, same ceiling light.
+Hands slowly thread the necklace chain through the straw.
+Close-up, instructional angle. Deliberate slow motion so process is clear.
 
 [CENA 4 — 4 seg]
-Close-up of her hands — rings, natural aging skin, warm light.
-Dignified, beautiful. Slow motion.
+Same hands with nude nail polish, same light wooden surface, same ceiling light.
+Four necklaces each stored in their own straw, placed side by side in a small box.
+Overhead angle. Neat, satisfying final arrangement.
 
-[CENA 5 — 4 seg]
-She smiles slightly to herself, looks out the window.
-Peaceful contentment. End on her face. Warm golden light.
+[CENA 5 — 3 seg]
+Same light wooden surface, same ceiling light.
+Closed small box with necklaces. Hand opens it — reveals neat straws inside.
+Satisfying reveal. Close-up overhead.
 ```
 
-**Overlay:** `"A hora mais gostosa do dia"` → última cena: `"Qual é a sua? 👇"`
-**Áudio:** buscar "soft piano morning peaceful"
-**Legenda:** `Aprendi que proteger minha hora da manhã é a melhor coisa que faço por mim. Sem celular, sem barulho. Só eu e meu chá. Você tem um momento assim?`
+**Overlay:** Cena 2: `"1 canudinho"` | Cena 4: `"Nunca mais embaraçou 😮 Salva"`
+**Áudio:** buscar "light playful acoustic short"
+**Legenda:** `Aprendi isso da minha avó e uso até hoje. Canudinho resolve o que nenhuma caixinha de joias consegue. Salva aqui 💛`
 
 ---
 
-## VÍDEO 05 — Skincare aesthetic (sem produto específico)
-**Reação alvo:** save + "que rotina linda"
+## VÍDEO 04 — Momento relatable 50+ (hora do chá)
+**Âncoras fixas:** mulher 55–60 anos, cabelo curto grisalho, blusa floral leve | cozinha clara com mesa de madeira, luz da manhã pela janela
+**Reação alvo:** compartilhamento ("isso sou eu")
 **Duração:** 22 seg | **Formato:** 9:16
 
 ```
 [CENA 1 — 3 seg]
-Flat lay of skincare products arranged beautifully on white marble.
-Toner, serum, moisturizer, facial roller. No brand names visible.
-Overhead shot. Clean, minimal aesthetic.
+Woman in her late 50s, short gray hair, light floral blouse,
+sitting alone at a wooden kitchen table with morning sunlight through window behind her.
+She wraps both hands around a ceramic mug. Peaceful, unhurried expression.
 
 [CENA 2 — 3 seg]
-Water splashing on woman's face at bathroom sink.
-Slow motion. Fresh, clean start. Natural light.
+Same woman, same floral blouse, same wooden kitchen table, same morning window light.
+Close-up of her hands around the mug. Slight steam rising from tea.
+Slow motion. Warm, quiet moment.
 
 [CENA 3 — 4 seg]
-Hands applying toner to face with cotton pad, gentle strokes.
-Close-up. Soft focus background. Natural skin.
+Same woman, same floral blouse, same kitchen with morning window light.
+She takes a slow sip of tea. Eyes close briefly with satisfaction.
+Side angle. Real, unposed expression.
 
-[CENA 4 — 3 seg]
-Facial roller being used on cheekbones, slow upward strokes.
-ASMR feel. Real skin, real person.
+[CENA 4 — 4 seg]
+Same woman, same floral blouse, same kitchen, same morning light.
+She opens a book or magazine on the table beside her mug.
+No rush. She runs her finger slowly across the page.
 
 [CENA 5 — 4 seg]
-Woman looks in mirror, touches her face gently.
-Fresh glowing skin result. Confident, relaxed expression.
+Same woman, same floral blouse, same wooden kitchen table, same morning window light.
+She looks out the window with a calm, satisfied expression.
+Camera stays on her face for 3 seconds. Peaceful. Content.
 
-[CENA 6 — 3 seg]
-Products arranged back on shelf in organized row.
-End shot. Aesthetic. Still.
+[CENA 6 — 4 seg]
+Wide shot: same kitchen, same morning light through window.
+Woman at table, mug, book. Seen from across the kitchen.
+Quiet domestic scene. Still shot.
 ```
 
-**Overlay:** `"Rotina de 10 minutos"` → cena 5: `"Pele que respira ✨"`
-**Áudio:** buscar "skincare routine aesthetic ambient"
-**Legenda:** `Não precisa de 20 produtos. Essa rotina tem 4 passos e é a que mais funcionou pra mim. Qual é o produto que você nunca abandona? 👇`
+**Overlay:** Cena 1: `"A hora mais gostosa do meu dia"` | Cena 5: `"Qual é a sua? 👇"`
+**Áudio:** buscar "soft piano morning peaceful instrumental"
+**Legenda:** `Aprendi que proteger essa hora da manhã é a melhor coisa que faço por mim. Sem celular, sem barulho. Só eu e meu chá. Você tem um momento assim?`
 
 ---
 
-## VÍDEO 06 — Transformação de ambiente (inspiração)
+## VÍDEO 05 — Skincare aesthetic (sem produto específico)
+**Âncoras fixas:** mulher 28–35 anos, cabelo preso em coque baixo, camiseta off-white | bancada de mármore branco, luz natural difusa da janela frontal
+**Reação alvo:** save + pergunta nos comentários
+**Duração:** 22 seg | **Formato:** 9:16
+
+```
+[CENA 1 — 3 seg]
+Woman in her early 30s, low bun dark hair, off-white fitted t-shirt,
+standing at a white marble bathroom counter with soft diffused natural light from front window.
+She looks at several skincare products arranged neatly on the counter.
+Calm, intentional expression. No brand names on products visible.
+
+[CENA 2 — 3 seg]
+Same woman, same off-white t-shirt, same marble counter, same soft diffused light.
+Water splashing on her face at sink. Slow motion.
+Fresh, clean start. Real skin visible.
+
+[CENA 3 — 4 seg]
+Same woman, same off-white t-shirt, same marble counter with soft diffused light.
+Her hands apply a clear toner with a cotton pad across her cheek.
+Close-up of face. Gentle upward strokes. Real skin texture, no filter.
+
+[CENA 4 — 4 seg]
+Same woman, same off-white t-shirt, same marble counter, same soft diffused light.
+She uses a small facial roller on her cheekbone, slow upward motions.
+Close-up. Satisfying, ASMR quality motion.
+
+[CENA 5 — 4 seg]
+Same woman, same off-white t-shirt, same marble counter, same soft diffused light.
+She looks in the mirror, touches her cheek gently with one finger.
+Slight satisfied smile. Fresh skin. Natural, unposed.
+
+[CENA 6 — 4 seg]
+Same marble counter, same soft diffused light.
+Products placed back in a neat row. Same woman's hands arranging them.
+End on still shot of the organized counter. Aesthetic, calm.
+```
+
+**Overlay:** Cena 1: `"Rotina de 10 minutos"` | Cena 5: `"Qual produto você nunca abandona? 👇"`
+**Áudio:** buscar "skincare aesthetic calm ambient"
+**Legenda:** `Não precisa de 20 produtos. Essa rotina tem 4 passos e é a que mais funcionou pra mim. Qual é o produto que você nunca abandona?`
+
+---
+
+## VÍDEO 06 — Transformação de cantinho da casa
+**Âncoras fixas:** mãos femininas com esmalte bordô | parede branca com piso de madeira, luz quente de tarde
 **Reação alvo:** save + "quero fazer igual"
 **Duração:** 20 seg | **Formato:** 9:16
 
 ```
 [CENA 1 — 2 seg]
-Plain white wall with nothing on it. Basic room. Neutral.
+Plain white wall above a wooden floor, warm afternoon light from right.
+Empty corner of a room. Simple, bare. Nothing on the wall.
+Wide angle, static shot.
 
 [CENA 2 — 4 seg]
-Time-lapse style: hands placing frames on wall in a gallery arrangement.
-Multiple frames, different sizes. Deliberate, satisfying placement.
+Same white wall, same wooden floor, same warm afternoon light from right.
+Female hands with dark nail polish hold picture frames against the wall,
+testing positions. Deliberate, thoughtful placement. Seen from slightly behind and side.
 
 [CENA 3 — 3 seg]
-Small plant placed on a shelf below the gallery wall.
-Hands positioning it carefully. Natural light.
+Same white wall, same wooden floor, same warm afternoon light from right.
+Hands with dark nail polish hang one frame on the wall.
+Close-up of the hanging action. Frame settles into place.
 
 [CENA 4 — 3 seg]
-String lights draped over the frames, plugged in.
-Warm glow activates. Cozy atmosphere appears.
+Same white wall, same wooden floor, same warm afternoon light from right.
+Small potted plant placed on a low shelf below where frames were hung.
+Hands with dark nail polish carefully position it. Close-up.
 
 [CENA 5 — 4 seg]
-Full result: gallery wall with plants and warm lights.
-Beautiful, personal, cozy. Warm evening light. Still shot.
+Same white wall, same wooden floor, same warm afternoon light from right.
+String of warm lights draped along the top of the frame arrangement.
+Hands with dark nail polish plug them in — warm glow activates.
+Slow reveal as lights turn on.
 
 [CENA 6 — 4 seg]
-Person sits on bed or chair in front of the wall.
-Looking at the result. Satisfied, peaceful expression.
+Same white wall, same wooden floor, same warm afternoon light from right.
+Full result: gallery wall with 3 frames, plant below, warm string lights.
+Camera slowly pulls back to reveal the full corner.
+Beautiful, personal, cozy. Still final shot.
 ```
 
-**Overlay:** `"Parede vazia → cantinho favorito da casa"` → última: `"Salva pra inspiração 🏠"`
-**Áudio:** buscar "cozy home warm acoustic"
-**Legenda:** `Essa parede ficava me incomodando. Resolvi em um fim de semana sem gastar muito. Às vezes o ambiente que você vive diz tudo sobre como você se sente. Salva aqui 🏠`
+**Overlay:** Cena 1: `"Parede vazia"` | Cena 6: `"Cantinho favorito da casa 🏠 Salva"`
+**Áudio:** buscar "cozy acoustic warm home"
+**Legenda:** `Essa parede ficava me incomodando. Resolvi em um fim de semana. Às vezes o ambiente que você vive diz tudo sobre como você se sente. Salva aqui 🏠`
 
 ---
 
-## Grade de uso na Fase 1 (dias 1–7)
+## Grade de uso — Fase 1 (dias 1–7)
 
 | Dia | Vídeo | Persona principal |
 |---|---|---|
 | Dia 1 | Vídeo 01 (organização banheiro) | Ambas |
-| Dia 2 | Vídeo 04 (momento relatable 50+) | Dona Cida |
+| Dia 2 | Vídeo 04 (hora do chá — 50+) | Dona Cida |
 | Dia 3 | Vídeo 05 (skincare aesthetic) | Larissa |
-| Dia 4 | Vídeo 03 (hack do canudinho) | Ambas |
+| Dia 4 | Vídeo 03 (hack canudinho) | Ambas |
 | Dia 5 | Vídeo 02 (rotina manhã) | Ambas |
-| Dia 6 | Vídeo 06 (transformação ambiente) | Ambas |
-| Dia 7 | Repetir o de maior engajamento | — |
+| Dia 6 | Vídeo 06 (transformação cantinho) | Ambas |
+| Dia 7 | Repetir o de maior engajamento da semana | — |
