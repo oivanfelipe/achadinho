@@ -63,20 +63,20 @@ Authentic, not professional model vibe.
 ```
 
 ### Texto de overlay (editar dentro do Flow)
-- Cena 1: *"30 dias depois..."*
-- Cena 4: *"Antes → Depois"*
-- Cena 7: *"Encontrei na internet por R$39"*
-- Cena 8: *"Link na bio 💛"*
+- Cena 1: *"O que R$39 fez na minha pele em 30 dias"*
+- Cena 4: *"Antes → Depois (sem filtro)"*
+- Cena 7: *"R$39 · Mercado Livre · 2.847 avaliações ⭐"*
+- Cena 8: *"Tô avisando quem me segue 💛 link na bio"*
 
 ### Música sugerida
 Buscar no banco do Flow: **"soft morning piano"** ou **"calm instrumental warm"**. Sem letra, volume baixo.
 
 ### Legenda do post
-> Eu tinha desistido de achar algo que funcionasse de verdade. Aí uma amiga me indicou esse creme e resolvi tentar. Em 30 dias minha pele estava diferente — não "milagre", mas diferença real.
+> R$39 no Mercado Livre e tô usando faz 30 dias. Minha pele não tava assim faz anos.
 >
-> Encontrei por R$39 no Mercado Livre, com quase 3 mil avaliações. Deixei o link na bio pra quem quiser.
+> Tem 2.847 avaliações positivas. Fiz questão de avisar aqui porque é o tipo de coisa que a gente fica sabendo tarde demais.
 >
-> 💛 Salva aqui se quiser lembrar depois.
+> 💛 Link na bio. Salva pra não perder.
 
 ---
 
@@ -127,11 +127,11 @@ Price tag visible: "R$ 34". Clean minimal shot.
 Buscar: **"satisfying transformation upbeat"** — algo leve, sem letra.
 
 ### Legenda do post
-> Essa gaveta me enlouquecia todo dia. Gastei R$34 num kit organizador e resolvi de vez.
+> Essa gaveta me estressava todo dia. Até que gastei R$34 e resolvi de vez.
 >
-> O kit tem 8 peças e cabe em gaveta, armário ou banheiro. Coloquei o link na bio — é do Shopee, chega em 3 dias.
+> Kit com 8 peças, cabe em qualquer gaveta. Do Shopee — chegou em 3 dias. Tipo de compra que você faz e fica se perguntando por que demorou tanto.
 >
-> 🏠 Salva pra não perder!
+> 🏠 Link na bio. Salva aqui pra não esquecer.
 
 ---
 
@@ -185,11 +185,11 @@ Hand scrolling down the page. Product visible. Real screenshot feel.
 Buscar: **"trending upbeat pop instrumental"** — algo que parece TikTok, energético.
 
 ### Legenda do post
-> Esse sérum tava em todo feed então resolvi testar de verdade. Resultado? Pele hidratada, textura boa, sem oleosidade.
+> Vi esse sérum em todo feed e fui testar. R$28. Chegou em 3 dias.
 >
-> Achei por R$28 — metade do preço da versão da farmácia. Link na bio.
+> Pele hidratada, sem oleosidade, sem aquele ressecamento que fica depois. Não é exagero — é o que aconteceu.
 >
-> ✨ Entra no grupo WPP pra receber achados assim toda semana (link na bio também)
+> ✨ Link na bio. No grupo WPP eu aviso quando acho mais coisa assim.
 
 ---
 
@@ -238,11 +238,11 @@ Text card: all 3 items + prices listed simply.
 Buscar: **"cozy aesthetic lo-fi"** ou **"warm bedroom vibe instrumental"**.
 
 ### Legenda do post
-> Transformei esse canto do quarto em 30 minutos com R$67 do Shopee.
+> Gastei R$67 e transformei esse canto do quarto em 30 minutos.
 >
-> Kit: luminária de cordão + vaso + moldura. Chegou em 4 dias.
+> Luminária de cordão + vasinho + moldura. Tudo do Shopee, chegou em 4 dias. O tipo de coisa que parece caro mas não é.
 >
-> 🏠 Link dos 3 na bio. Entra no grupo pra mais achados assim toda semana.
+> 🏠 Link dos 3 na bio. No grupo WPP tem mais achado assim toda semana.
 
 ---
 
