@@ -12,6 +12,7 @@ estrategia/
   personas.md              # Duas personas definidas (Dona Cida 50+ e Larissa padrão)
   plano-lancamento-12-12.md  # Plano completo 03/11 a 12/12: conteúdo, aquisição, cronograma, compliance
   foco-mercado-livre-jornada.md  # Foco ML: regras do programa, jornada até o grupo, links, curadoria, modelo
+  como-o-mercado-opera.md  # Como operadores de grupos de ofertas captam membros hoje + protocolo de reconhecimento
   automacao-tecnica.md     # Arquitetura da automação, API Shopee, gateway WhatsApp, dados
   pesquisa-repos-termos-ferramentas.md  # Termos oficiais Shopee, repos open source lidos, WAHA, Canais, limites do Instagram
 
