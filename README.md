@@ -22,6 +22,7 @@ conteudo/
 
 marca/
   bio-e-copy.md            # Bios dos perfis, fórmulas de copy e checklist
+  persona-virtual.md       # Rosto da marca (personagem criada com IA): ficha, prompts, bios e regras
 ```
 
 ---
