@@ -2,6 +2,7 @@
 
 > Escrito em 03/11/2026. Faltam 39 dias para 12/12 (sábado).
 > Documento técnico da automação: `estrategia/automacao-tecnica.md`.
+> **Foco decidido: Mercado Livre.** Regras do programa, jornada até o grupo e ajustes de cronograma em `estrategia/foco-mercado-livre-jornada.md`. Onde houver conflito com este plano (comissão, janela de atribuição, categorias, links), vale o documento do ML.
 > Termos oficiais da Shopee, repositórios lidos e ferramentas de WhatsApp: `estrategia/pesquisa-repos-termos-ferramentas.md` (rodada 2 da pesquisa, que corrige pontos deste plano).
 > Personas, bios e prompts já existentes continuam valendo, com os ajustes apontados na seção 2.
 
