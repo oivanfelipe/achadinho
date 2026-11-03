@@ -10,6 +10,8 @@ Monetização via afiliados: Shopee, Mercado Livre e Amazon.
 ```
 estrategia/
   personas.md              # Duas personas definidas (Dona Cida 50+ e Larissa padrão)
+  plano-lancamento-12-12.md  # Plano completo 03/11 a 12/12: conteúdo, aquisição, cronograma, compliance
+  automacao-tecnica.md     # Arquitetura da automação, API Shopee, gateway WhatsApp, dados
 
 conteudo/
   roteiros-google-flow.md  # Roteiros de vídeo com produto (fases 2 e 3)
