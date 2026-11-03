@@ -19,6 +19,7 @@ estrategia/
 conteudo/
   roteiros-google-flow.md  # Roteiros de vídeo com produto (fases 2 e 3)
   prompts-aquecimento-flow.md  # Prompts sem produto para fase 1 (dias 1-14)
+  plano-aquecimento-perfis.md  # Aquecimento dos perfis 04/11 a 24/11, gate para anúncio, triagem de vídeos
 
 marca/
   bio-e-copy.md            # Bios dos perfis, fórmulas de copy e checklist
