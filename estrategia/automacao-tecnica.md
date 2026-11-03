@@ -92,11 +92,14 @@ mutation {
 }
 ```
 
-### 4.2 O que NÃO está verificado
+### 4.2 Verificado em código de terceiros e o que continua pendente
 
-- ⚠️ **Endpoint do Brasil.** Uma busca citou `https://open-api.affiliate.shopee.com.br/graphql` a partir de um SDK .NET; não consegui abrir o repositório (404). Confirme no Open Platform da conta.
-- ⚠️ **`productOfferV2`.** Os campos abaixo são de memória, não os li em documentação: `itemId, productName, commissionRate, price, priceMin, priceMax, sales, ratingStar, imageUrl, shopName, productLink, offerLink`. Valide no explorador/documentação da Shopee.
-- ⚠️ Códigos de erro: fontes citam 10020 (credenciais) e 10030 (limite de requisições). Implemente backoff exponencial.
+> **Atualização (rodada 2):** o endpoint do Brasil e os campos de `productOfferV2` agora estão verificados **em código de 4 repositórios** (ver `pesquisa-repos-termos-ferramentas.md`, seção 3). Continuam não sendo documentação oficial: confirme no painel quando as credenciais saírem.
+
+- ✅ **Endpoint do Brasil:** `https://open-api.affiliate.shopee.com.br/graphql` (3 repositórios). Um deles manda copiar a URL do painel, pois pode variar por conta.
+- ✅ **`productOfferV2`:** argumentos `keyword, itemId, shopId, sortType, page, limit`; campos `itemId shopId productName priceMin priceMax priceDiscountRate commissionRate sales ratingStar imageUrl shopName productLink offerLink` e `pageInfo { page limit hasNextPage }`. `sortType`: 1 relevância, 2 mais vendidos, 3 maior preço, 4 menor preço, **5 maior comissão**.
+- ✅ **`shopeeOfferV2`:** lista campanhas (`offerName offerLink originalLink imageUrl periodStartTime periodEndTime`). Use para descobrir a campanha 12.12 e as datas.
+- ✅ **Erro 10035:** conta sem acesso à Open API ainda. Os códigos 10020 e 10030 vieram de fonte secundária ⚠️. Nenhum cliente existente trata limite de requisições; implemente backoff exponencial.
 - ⚠️ Tempo de aprovação da API: uma fonte fala 5 a 15 dias, outra fala 24 a 48 horas para a conta de afiliado (são aprovações diferentes). **Peça as credenciais agora.**
 
 ### 4.3 Cliente mínimo (Node 20, sem dependência) 🛠️
@@ -104,7 +107,8 @@ mutation {
 ```js
 import crypto from "node:crypto";
 
-const ENDPOINT = process.env.SHOPEE_ENDPOINT; // validar BR
+const ENDPOINT = process.env.SHOPEE_ENDPOINT
+  ?? "https://open-api.affiliate.shopee.com.br/graphql"; // confirmar no painel
 const APP_ID = process.env.SHOPEE_APP_ID;
 const SECRET = process.env.SHOPEE_SECRET;
 
@@ -145,7 +149,7 @@ Isso responde "qual horário e categoria faz mais clique" direto no relatório.
 
 ## 5. Mercado Livre e Amazon (operação semiautomática)
 
-- **ML:** um link por canal gerado no painel; relatório separa cliques e vendas por link ✅(fonte). Fluxo: 1 vez por semana (domingo) gerar 20 a 30 links, colar em uma tabela do Supabase com título, preço, nota. A automação só lê a tabela.
+- **ML:** não existe API de link. Um repositório anexa `matt_word` e `matt_tool` ao link do produto; outro usa `meli.la` gerado no Linkbuilder do painel. ⚠️ Confirme no painel qual formato é válido. Um link por canal gerado no painel; relatório separa cliques e vendas por link ✅(fonte). Fluxo: 1 vez por semana (domingo) gerar 20 a 30 links, colar em uma tabela do Supabase com título, preço, nota. A automação só lê a tabela.
 - **Amazon:** SiteStripe no produto, mesmo fluxo. ⚠️ Ler o contrato sobre exibição de preço e lugares onde o link pode aparecer.
 - Meta de mix de volume 🛠️: Shopee 60%, ML 30%, Amazon 10% (ajuste por EPC real).
 
@@ -213,6 +217,19 @@ Saída por oferta: `{ titulo, mensagem_wpp, mensagem_telegram, legenda_story }`.
 | API oficial (Cloud API) | Oficial | Baixo | Cobrança por conversa. Uma fonte cita grupo cobrado por pessoa que recebe, e a Groups API aparece limitada a 8 participantes em fórum de desenvolvedores ⚠️ | Inviável para grupo público de centenas de membros |
 
 **Leitura honesta:** não existe caminho oficial e barato para postar automaticamente em grupo grande. Quem automatiza grupo de ofertas está, quase sempre, usando conexão por sessão. Ela viola os termos de uso (envio automatizado/não oficial é causa de bloqueio, segundo as fontes), portanto **você aceita o risco com mitigação**, não elimina.
+
+### 9.1.1 Endpoints do WAHA (documentação oficial lida)
+
+Para a implementação do `WhatsAppGatewaySender`, o WAHA expõe: `POST /api/sendText` (`session`, `chatId` terminado em `@g.us`, `text`), `POST /api/sendImage`, `GET /api/{session}/groups`, `GET .../groups/{id}/invite-code`, `PUT .../settings/security/messages-admin-only` (`{"adminsOnly":true}`) e `PUT .../settings/security/membership-approval`. Lista completa em `pesquisa-repos-termos-ferramentas.md`, seção 4. O próprio WAHA avisa que "WhatsApp does not allow bots or unofficial clients" e que o bot deve **só responder** mensagens, nunca iniciar conversa. Erros `463` e `475` significam timelock e limite de mensagens: **não reiniciar nem refazer o pareamento**, apenas pausar.
+
+Padrões de operação aproveitados dos repositórios lidos (sem copiar código):
+
+- Reconsultar a oferta na API imediatamente antes de publicar; pular se sumiu ou se o preço subiu.
+- Não repetir envio após erro 503 ou de rede no WhatsApp (evita mensagem duplicada); seguir com o Telegram.
+- Parar o slot após 3 falhas seguidas em todos os destinos.
+- Pausa aleatória de 20 a 40 s entre posts.
+- Dedupe de 7 dias gravado **só depois** de envio com sucesso.
+- Modo padrão "kit para postar manualmente": o bot manda a oferta pronta para o seu Telegram privado; o envio automático ao grupo é opcional e desligável.
 
 ### 9.2 Mitigação 🛠️ (junto ao que o Z-API descreve ⚠️)
 

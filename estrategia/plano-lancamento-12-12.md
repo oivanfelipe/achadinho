@@ -2,6 +2,7 @@
 
 > Escrito em 03/11/2026. Faltam 39 dias para 12/12 (sábado).
 > Documento técnico da automação: `estrategia/automacao-tecnica.md`.
+> Termos oficiais da Shopee, repositórios lidos e ferramentas de WhatsApp: `estrategia/pesquisa-repos-termos-ferramentas.md` (rodada 2 da pesquisa, que corrige pontos deste plano).
 > Personas, bios e prompts já existentes continuam valendo, com os ajustes apontados na seção 2.
 
 ---
@@ -43,6 +44,8 @@ Quase tudo que existe na internet sobre o tema vem de **vendedores de ferramenta
 | Shopee | 8% a 12% em uma fonte, 20% a 30% em duas | 8% a 12% / 10% a 18% | Também aparece "3% a 15%" geral. ⚠️ Planeje no piso. Existe "Comissão Extra" por produto/campanha, que passa de 20% em alguns casos |
 | Mercado Livre | 6% a 8% em uma fonte, até 16% em outra | 4% a 8% | O "16%" é teto de categoria premium. ⚠️ Cookie e prazo de pagamento divergem (30 a 60 dias para liberar) |
 | Amazon | 8% a 10% (alguns citam até 15% para moda/beleza) | n/d | Regra repetida por várias fontes: **3 vendas qualificadas em 180 dias**, senão a conta é desativada. ⚠️ |
+
+**Fatos oficiais da Shopee (Termos de 09/09/2026, ✅ lidos):** atribuição de **7 dias com último clique**; comissão calculada sobre o valor líquido (exclui desconto, frete, taxa de cupom e Moedas Shopee); pagamento mensal, valor mínimo não informado no texto, em até 60 dias após a aprovação; devolução e cancelamento estornam a comissão. Detalhes e números de seção em `pesquisa-repos-termos-ferramentas.md`.
 
 **Como usar isso:** no modelo financeiro use o piso (Shopee 8%, ML 6%, Amazon 8%). Se a realidade for maior, é lucro.
 **Ação:** na semana 1, tire print das tabelas oficiais dos três painéis e salve em `estrategia/` (assim o plano passa a ter número real).
@@ -94,7 +97,7 @@ O pilar 6 é o seu argumento de entrada mais forte: **prova de velocidade**.
 **Seguro (prioridade):**
 
 1. **Captura de tela e gravação da própria tela** do produto (preço, avaliações, frete) com sua narração ou legenda. É o formato mais barato e é conteúdo seu.
-2. **Produtos comprados de verdade.** Reserve R$ 250 a R$ 400 para comprar 6 a 10 produtos baratos da própria vitrine. Eles viram unboxing, teste, comparativo. Conteúdo original, copy honesta, e resolve o problema do "tô usando".
+2. **Produtos comprados de verdade.** Reserve R$ 250 a R$ 400 para comprar 6 a 10 produtos baratos da própria vitrine. **Compre sem passar pelo seu link de afiliado**: os termos da Shopee tratam compra via link próprio como motivo de estorno de comissão (seção 3.6). Eles viram unboxing, teste, comparativo. Conteúdo original, copy honesta, e resolve o problema do "tô usando".
 3. **Vídeos gerados por IA para conteúdo sem produto** (fase 1), já cobertos em `conteudo/prompts-aquecimento-flow.md`. Conteúdo gerado ou modificado por IA segue as mesmas regras de identificação do guia CONAR 2026.
 4. **Material que a própria plataforma disponibiliza a afiliados** (criativos, vídeos de campanha). ⚠️ Confirmar no painel de cada programa o que é permitido reusar e em que formato.
 5. **Autorização direta.** Fale com 5 a 10 microcriadores de beleza e casa. Proponha dividir comissão por Reels com produtos. Conteúdo licenciado não é penalizado.
@@ -134,7 +137,7 @@ CTA aprovados (do `marca/bio-e-copy.md`): "No grupo WPP eu aviso quando acho mai
 
 | Ativo | Para quê | Observação |
 |---|---|---|
-| Instagram @acheipromo (conta única, profissional) | Reels, Stories, bio com link | Link da bio aponta para a landing (seção 6.3) |
+| Instagram @acheipromo (conta única, profissional) | Reels, Stories, bio com link | Link da bio aponta para a landing (seção 6.3). **Sem "Shopee" no nome, usuário ou foto**: os termos exigem que a mídia aprovada não contenha marca ou logotipo da Shopee. Conta pública |
 | TikTok | Alcance barato e frio | Ligar o botão de conteúdo comercial ao postar produto com link. Sem isso o vídeo perde elegibilidade para o Para Você |
 | Facebook Page | Persona Cida usa Facebook | Reels do Instagram podem ser compartilhados para a Page. Custo quase zero |
 | Número WhatsApp dedicado (chip novo, WhatsApp Business) | Admin do grupo e do bot | Nunca use seu número pessoal como único admin |
@@ -175,7 +178,8 @@ Para sair, é só sair do grupo. Para silenciar, use "Silenciar notificações".
 
 1. **Só admins enviam mensagens** (fundamental: nada de spam de membro, nada de conversa).
 2. Só admins editam dados do grupo.
-3. Ativar aprovação de novos participantes só se houver abuso (cria atrito). ⚠️ Confirmar no app.
+3. Ativar "aprovar novos participantes" só se houver abuso (cria atrito, cada pedido precisa de aceite). A função existe e pode ser ligada depois da criação do grupo.
+3b. Desabilitar o compartilhamento de histórico de mensagens pelos membros (recurso de 2026 que libera 25 a 100 mensagens antigas para quem entra). Evita novo membro ver oferta vencida na primeira impressão.
 4. Mensagens temporárias desligadas.
 5. Fixar mensagem de boas-vindas (o que o grupo entrega e os horários), reenviar nos fixos a cada 2 semanas.
 6. Habilitar Comunidade só quando tiver grupo 2 (ver 7).
@@ -206,7 +210,8 @@ Legenda: 🧱 fundação · 🎥 conteúdo · 👥 aquisição · 🤖 automaç�
 
 | Data | Tarefa |
 |---|---|
-| Ter 03 | ⚖️ Pedir aprovação **hoje**: Shopee Afiliados, Mercado Livre Afiliados, Amazon Associados. A Amazon exige 3 vendas em 180 dias, então comece cedo |
+| Ter 03 | ⚖️ Pedir aprovação **hoje**: Shopee Afiliados, Mercado Livre Afiliados, Amazon Associados. A Amazon exige 3 vendas em 180 dias, então comece cedo. Sem acesso à Open API da Shopee a chamada retorna erro 10035; peça as credenciais junto |
+| Ter 03 | ⚖️ Mandar 4 perguntas ao suporte da Shopee: (1) divulgar link em grupo de WhatsApp é coberto pela mídia de afiliado? (2) como PF recebe (os termos citam CNPJ e também conta Maree/Shopee Pay)? (3) qual o valor mínimo de saque? (4) como funciona a campanha 12.12 e a Comissão Extra? |
 | Qua 04 | 🧱 Criar Instagram, TikTok, Facebook Page. Bios do `marca/bio-e-copy.md`. Primeiro post fase 1 |
 | Qua 04 | 🧱 Comprar chip novo, ativar WhatsApp Business, iniciar aquecimento do número (item 5.4) |
 | Qui 05 | 🧱 Registrar domínio, subir landing no Vercel com link provisório |
@@ -312,6 +317,8 @@ Especificação em `automacao-tecnica.md`.
 |---|---|---|
 | A. Landing + Pixel | Anúncio de Tráfego/Leads → landing → grupo | Padrão. Mede custo por entrada clicada e otimiza com evento |
 | B. Click-to-WhatsApp em duas etapas | Anúncio → conversa com número Business → mensagem automática com link do grupo | Funil com filtro: só quem responde entra. Usar a mensagem de saudação do WhatsApp Business |
+
+**Regra da Shopee para anúncio ✅:** é permitido anunciar em Instagram Ads, Facebook Ads, TikTok Ads e Pinterest Ads, só pela conta de mídia registrada. **Google Ads e Bing Ads com link de afiliado são proibidos.** O plano usa só Meta/TikTok e leva o tráfego à sua landing, não ao link da Shopee. Como a landing nunca redireciona para a Shopee sem clique do usuário, também respeita a regra de cookies (seção 4.4 dos termos).
 
 **Click-to-WhatsApp direto para grupo não existe**: ele abre chat 1:1. Não encontrei regra oficial da Meta sobre anúncios que levem a convite de grupo. ⚠️ Conferir as Políticas de Publicidade. Faça um primeiro teste de R$ 10 a 20 só para ver se a campanha é aprovada.
 
@@ -471,7 +478,8 @@ Sorteio com prêmio pode exigir autorização prévia (promoção comercial). Se
 ### 9.5 Regras de cada programa
 
 - Amazon: contrato exige cadastro dos locais onde os links aparecem e regras de exibição de preço. ⚠️ Ler o Contrato de Operação antes de postar.
-- Shopee e Mercado Livre: as fontes não trazem lista de práticas proibidas. ⚠️ Ler termos no painel (autocompra, uso de cupom, anúncio com link direto em buscador).
+- **Shopee (termos oficiais lidos):** não proíbe WhatsApp, grupo ou bot, mas também não os cita. Proíbe: Google/Bing Ads com link de afiliado, marca Shopee na mídia aprovada, redirecionamento sem clique, informação falsa ou enganosa, compartilhar cupom nominal de terceiros, raspagem do site. Exige mídia pública e conta de recebimento coerente com CPF/CNPJ. ⚠️ Perguntar ao suporte: divulgar em grupo de WhatsApp está coberto pela mídia aprovada? Como PF recebe? Detalhes em `pesquisa-repos-termos-ferramentas.md`.
+- Mercado Livre: nenhuma fonte trouxe lista de práticas proibidas. ⚠️ Ler termos no painel (autocompra, cupom, anúncio com link direto em buscador).
 - Fiscal: Shopee mudou o modelo para PJ (NFS-e por marca para Comissão Extra, a partir de ago/2026, fonte única). ⚠️ Conversar com contador sobre MEI/CNPJ.
 
 ### 9.6 Matriz de risco
@@ -579,4 +587,12 @@ Pesquisa feita em 03/11/2026. Quase todas são páginas comerciais de ferramenta
 - [UAI: afiliado é publicidade para o Conar](https://www.uai.com.br/networking-e-negocios/2026/09/23/ganha-comissao-com-link-de-afiliado-para-o-conar-isso-ja-e-publicidade/)
 - [Migalhas: Guia CONAR 2026](https://www.migalhas.com.br/depeso/456124/guia-conar-2026-o-que-todo-influenciador-precisa-saber-agora)
 
-**Lacunas não resolvidas na pesquisa (você precisa verificar):** tabelas oficiais de comissão dos três programas; janela de cookie da Shopee e do ML; campanha oficial 12.12 da Shopee; limite atual de grupo/Comunidade na Central de Ajuda do WhatsApp; política da Meta para anúncio que leva a convite de grupo; texto integral do Guia CONAR; lista de práticas proibidas de Shopee e ML.
+**Rodada 2 (fontes primárias e código):**
+- [Shopee: Termos e Condições do Programa de Afiliados](https://help.shopee.com.br/portal/10/article/124094-Programa-de-Afiliados-Shopee-Termos-e-Condi%C3%A7%C3%B5es)
+- [wntuto/disparador-afiliados](https://github.com/wntuto/disparador-afiliados), [gustavohenrique-d/bot-ofertas-afiliados](https://github.com/gustavohenrique-d/bot-ofertas-afiliados), [Mateus0790/botafiliado](https://github.com/Mateus0790/botafiliado), [vs-machado/offers-bot-automation](https://github.com/vs-machado/offers-bot-automation), [SaulloGabryel/BlueBot](https://github.com/SaulloGabryel/BlueBot), [Maths9/shopee-telegram-affiliate-bot](https://github.com/Maths9/shopee-telegram-affiliate-bot)
+- [WAHA: grupos](https://waha.devlike.pro/whatsapp-groups/), [WAHA: como evitar bloqueio](https://waha.devlike.pro/docs/overview/how-to-avoid-blocking/)
+- [Wassenger: mensagens para Canais](https://wassenger.com/blog/pt/enviar-mensagens-para-canais-do-whatsapp-via-api)
+- [MacMagazine: histórico de grupo para novos membros](https://macmagazine.com.br/post/2026/02/19/whatsapp-agora-pode-mostrar-historico-de-mensagens-em-grupos-para-novos-membros)
+- [Grupodewhatsapp: criar grupo de promoções](https://grupodewhatsapp.com/blog/como-criar-grupo-promocoes-whatsapp)
+
+**Lacunas não resolvidas (você precisa verificar):** tabelas oficiais de comissão dos três programas; valor mínimo de pagamento da Shopee; recebimento por pessoa física; campanha oficial 12.12 e comissões extras (consultável por `shopeeOfferV2` após a liberação da API); limite atual de grupo/Comunidade na Central de Ajuda do WhatsApp; política da Meta para anúncio que leva a convite de grupo; texto integral do Guia CONAR; termos do Mercado Livre e da Amazon; termos de uso da Open API da Shopee. Não encontrei relato independente de renda real com esse modelo.
